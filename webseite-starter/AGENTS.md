@@ -6,6 +6,7 @@ Du baust und pflegst eine Website in `site/`. Der Nutzer beschreibt Zweck und Zi
 
 1. **Ziel klären** (falls unbekannt): Zweck, Zielgruppe, eine Hauptaktion, die Besucher tun sollen.
 2. **Design zuerst:** Skill `skills/design-system.md` befolgen — Tokens festlegen, dann Layout.
+   - Installiert der Nutzer zusätzlich die bekannten Design-Skills (`npx skills add anthropics/skills@frontend-design vercel-labs/agent-skills@web-design-guidelines`), haben sie Vorrang und ergänzen dieses Haus-Designsystem; Widersprüche klären (Quelle nennt die strengere Regel).
 3. **Bauen:** Startpunkt ist `site/index.html`. Semantisches HTML, CSS in `site/styles.css` (anlegen, falls fehlt).
 4. **Prüfen:** Skill `skills/qualitaets-check.md` vor Übergabe.
 

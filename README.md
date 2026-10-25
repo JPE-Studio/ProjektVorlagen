@@ -24,8 +24,8 @@ cd ~/Documents/mein-roman
 | Template | Zweck | Skills |
 |---|---|---|
 | `buchautor/` | Roman schreiben, szenenweise | Szenen-Generator (Beat-basiert), Lektorat Deutsch |
-| `webseite-starter/` | Eine-Pager/Website mit Designsystem | Design-System, Qualitäts-Check |
-| `videogenerator/` | KI-Videoproduktion (Shot-basiert) | Prompt-Baukasten, Storyboard |
+| `webseite-starter/` | Eine-Pager/Website mit Designsystem | Design-System, Qualitäts-Check + empfohlen: `npx skills add anthropics/skills@frontend-design vercel-labs/agent-skills@web-design-guidelines` |
+| `videogenerator/` | KI-Videoproduktion (Shot-basiert) | Prompt-Baukasten, Storyboard + gebündelt: HyperFrames (HTML→Video, Apache-2.0) |
 | `steuerberater/` | Steuer-/Behördenfälle bearbeiten | Zuständigkeits-Zuweisung, Behörden-Wegweiser |
 
 ## Neues Template beitragen
