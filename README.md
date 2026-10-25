@@ -36,3 +36,7 @@ cd ~/Documents/mein-roman
 4. In die Tabelle oben eintragen
 
 Regel für Skills: eine Datei = ein Skill, max. ~60 Zeilen, mit Beispielen statt Prosa.
+
+## Lizenz
+
+MIT — siehe [LICENSE](LICENSE).
